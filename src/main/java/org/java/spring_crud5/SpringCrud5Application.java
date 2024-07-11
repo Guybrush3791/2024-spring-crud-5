@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringCrud5Application {
 
 	/**
+	 * REPO: 2024-spring-crud-5
+	 * 
 	 * TODO:
 	 * 
 	 * In nuovo esercizio sviluppare un'applicazione per gestire le seguenti
