@@ -28,7 +28,7 @@ public class SpringCrud5Application {
 	 * - price : INT
 	 * - vat (iva percentuale) : INT
 	 * 
-	 * Un cliente puo' effettuare un ordine contenente piu' prodotti.
+	 * Un cliente puo' effettuare piu' ordini, ogni ordine contiene piu' prodotti.
 	 * 
 	 * La classe Order deve inoltre esporre il seguente metodo:
 	 * - getFullPrice(boolean vat) : INT --> restituisce il prezzo totale
@@ -43,10 +43,10 @@ public class SpringCrud5Application {
 	 * in ingresso e' true
 	 * 
 	 * Definire sensatamente le relazioni e testare adeguatamente sia classi che
-	 * relazioni
-	 * man mano che vengono implementate. E' possibile definire altre
-	 * classi/interfacce
-	 * qualora lo si ritenga necessario.
+	 * relazioni man mano che vengono implementate.
+	 * 
+	 * E' possibile definire altre classi/interfacce qualora lo si ritenga
+	 * oppurtuno.
 	 * 
 	 */
 
